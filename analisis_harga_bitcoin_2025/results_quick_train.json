@@ -1,0 +1,9 @@
+{
+  "svr": {
+    "mae": 68779519.91488898,
+    "rmse": 77172476.23403093
+  },
+  "lstm": {
+    "error": "Not enough data for LSTM sequence length 16"
+  }
+}

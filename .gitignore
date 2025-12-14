@@ -1,0 +1,12 @@
+#folder analisis harga bitcoin tidak perlu di push
+analisis_harga_bitcoin_2025/__pycache__/
+analisis_harga_bitcoin_2025/.ipynb_checkpoints/
+
+#folder analisis laporan bri tidak perlu di push
+analisis_laporan_keuangan_bri/.ipynb_checkpoints/
+
+#folder btc forescast web tidak perlu di push
+btc-forecast-web/backend/models/
+
+#folder venv hide
+venv
