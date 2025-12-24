@@ -26,6 +26,7 @@ class SimpleLSTM:
 # =========================
 # GUI
 # =========================
+
 class BTCGUI(QtWidgets.QMainWindow):
     def __init__(self):
         super().__init__()
@@ -169,7 +170,6 @@ class BTCGUI(QtWidgets.QMainWindow):
         self.ax.plot(lstm_dates, lstm_prices, label="LSTM NumPy Forecast", color="purple")
         self.ax.legend()
         self.canvas.draw()
-
 
 # =========================
 def main():

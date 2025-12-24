@@ -1,0 +1,11 @@
+﻿No:,Input 1,Input 2,input 3,Input 4,Index
+1,50,50,0,0,Rendah
+2,70,60,60,80,Sedang
+3,70-90,61-100,80,90/100,Tinggi
+4,70,80,50,50,Random
+,,,,,
+No:,Input 1,Input 2,Input 3,index,
+1,1,30,30,Rendah,
+2,4,60,60,Sedang,
+3,7,100,100,Tinggi,
+4,2,80,50,Random,
