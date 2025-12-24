@@ -83,7 +83,7 @@ Sistem ini membantu dalam penilaian kelayakan beasiswa dengan metode **Fuzzy Log
 | GUI | PyQt5 |
 | Visualisasi | Matplotlib |
 | Data | Pandas, NumPy |
-| Machine Learning | TensorFlow, Scikit-learn |
+| Machine Learning | Scikit-learn |
 | Editor Dokumentasi | Dillinger.io |
 
 ---
