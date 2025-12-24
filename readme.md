@@ -1,61 +1,112 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,100:00BFA6&height=230&section=header&text=Project%20Analisis%20By%20Jejo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Fuzzy%20Mamdani%20%7C%20Finance%20Analysis%20%7C%20Bitcoin%20%7C%20Python&descAlignY=60&descSize=18" />
+</p>
+
+---
+
+# 📊 Project Analisis By Jejo
+> **Sebuah project multi-domain** yang menggabungkan:
+> - Analisis Keuangan Bank BRI
+> - Analisis Harga Bitcoin (2025)
+> - Sistem Seleksi Beasiswa (Fuzzy Mamdani)
+
+Semua dikerjakan dengan pendekatan **data-driven**, visualisasi, dan logika fuzzy.
 
 ---
 
 ## 🏦 Analisis Keuangan Bank BRI
-Analisis ini berfokus pada performa keuangan **Bank Rakyat Indonesia (BRI)** dengan beberapa tujuan utama:
-- Analisis tren keuangan
-- Evaluasi pergerakan harga
-- Identifikasi pola historis
-- Visualisasi data keuangan
+Analisis ini berfokus pada performa keuangan **Bank Rakyat Indonesia (BRI)** dengan tujuan:
+- Analisis tren keuangan dan pergerakan harga
+- Identifikasi pola historis jangka pendek & panjang
+- Visualisasi grafik berbasis data statistik
 
-Metode yang digunakan mencakup:
+📌 *Metode:*
 - Statistik deskriptif
-- Analisis time series
-- Visualisasi grafik keuangan
+- Time series
+- Visualisasi harga
+
+📌 *Tujuan*: memahami kondisi & arah performa bank dari data numerik.
 
 ---
 
-## ₿ Analisis Harga Bitcoin (Periode 2025)
-Bagian ini menganalisis pergerakan **harga Bitcoin** selama periode tahun 2025 dengan fokus pada:
-- Pola pergerakan harga
+## ₿ Analisis Harga Bitcoin – Periode 2025
+Menganalisis pola dan pergerakan harga Bitcoin selama tahun **2025**.
+
+📌 Fokus:
 - Tren jangka pendek & menengah
-- Perbandingan antar periode waktu
-- Prediksi numerik berbasis model
+- Perbandingan antar kuartal
+- Identifikasi area potensial (support/resistance)
+- Eksperimen prediksi numerik
 
-Pendekatan analisis:
-- Time series analysis
-- Machine Learning (LSTM / SVR)
-- Visualisasi grafik harga
-
----
-
-## 🛠️ Tools & Teknologi
-- **Python**
+📌 Tools:
 - Pandas, NumPy
-- Matplotlib / Seaborn
-- Scikit-learn
-- TensorFlow / Keras
-- Jupyter Notebook
+- Machine Learning (LSTM / SVR)
+- Visualisasi grafik dengan Matplotlib
 
 ---
 
-## 📌 Catatan Penting
-> Project ini **bukan rekomendasi investasi**.  
-> Seluruh analisis dibuat untuk tujuan edukasi, eksplorasi data, dan pengembangan skill analisis keuangan.
+# 🎓 Sistem Analisis Seleksi Beasiswa (Fuzzy-Mamdani)
+
+Sistem ini membantu dalam penilaian kelayakan beasiswa dengan metode **Fuzzy Logic Mamdani**.
+
+🧠 **Tujuan**
+- Mengurangi bias subjektif
+- Mengolah nilai dengan pendekatan *abu-abu*
+- Menentukan keputusan berbasis derajat keyakinan (μ)
+
+🏁 **Status Output**
+- ❌ **Gagal**
+- ⚠️ **Digantung** (dipertimbangkan)
+- ✅ **Diterima**
+
+📌 **Defuzzyfikasi:** `Center of Gravity (COG)`
 
 ---
 
-## 🚀 Tujuan Project
-- Mengembangkan pemahaman analisis keuangan berbasis data
-- Menerapkan machine learning pada data time series
-- Membuat visualisasi yang informatif dan mudah dipahami
+## 🧮 Variabel Input Sistem Beasiswa
+
+| Input | Nama Variabel | Range | Arti |
+|---:|---|---:|---|
+| 1 | Skala Faktor | 10–80 | Potensi dasar |
+| 2 | Prestasi | 30–90 | Capaian akademik/non-akademik |
+| 3 | Konsistensi | 20–100 | Stabilitas nilai |
+| 4 | Progres | 40–100 | Perkembangan performa |
+
+📌 Output (0–100) → Nilai akhir **defuzzyfikasi**
+
+---
+
+## 🛠️ Teknologi & Tools
+| Kategori | Tools |
+|----------|--------|
+| Bahasa Pemrograman | Python |
+| GUI | PyQt5 |
+| Visualisasi | Matplotlib |
+| Data | Pandas, NumPy |
+| Machine Learning | Scikit-learn |
+| Editor Dokumentasi | Dillinger.io |
+
+---
+
+## 🚀 Tujuan Akhir Project
+- Menggabungkan konsep **Ekonomi + AI + Data Science**
+- Melatih skill analisis data *end-to-end*
+- Membangun **sistem pendukung keputusan**
 
 ---
 
 ## 👤 Author
-**jejo**  
-Financial Data Analysis & Machine Learning Enthusiast
+**👨‍💻 jejo**  
+Financial Data Analyst & Machine Learning Enthusiast  
+
+🤝 *Collaborated with ChatGPT for Fuzzy System Development & Documentation*
 
 ---
 
-✨ Feel free to explore, learn, and improve.
+## ⚠️ Disclaimer
+⚡ Project ini **bukan saran investasi**  
+⚡ Hanya untuk edukasi, eksplorasi, dan riset data
+
+---
+
+✨ *Silakan eksplor, modifikasi, dan kembangkan!*
