@@ -21,25 +21,25 @@ Analisis ini berfokus pada performa keuangan **Bank Rakyat Indonesia (BRI)** den
 - Identifikasi pola historis jangka pendek & panjang
 - Visualisasi grafik berbasis data statistik
 
-📌 *Metode:*
+*Metode:*
 - Statistik deskriptif
 - Time series
 - Visualisasi harga
 
-📌 *Tujuan*: memahami kondisi & arah performa bank dari data numerik.
+ *Tujuan*: memahami kondisi & arah performa bank dari data numerik.
 
 ---
 
 ## ₿ Analisis Harga Bitcoin – Periode 2025
 Menganalisis pola dan pergerakan harga Bitcoin selama tahun **2025**.
 
-📌 Fokus:
+ Fokus:
 - Tren jangka pendek & menengah
 - Perbandingan antar kuartal
 - Identifikasi area potensial (support/resistance)
 - Eksperimen prediksi numerik
 
-📌 Tools:
+ Tools:
 - Pandas, NumPy
 - Machine Learning (LSTM / SVR)
 - Visualisasi grafik dengan Matplotlib
@@ -50,21 +50,21 @@ Menganalisis pola dan pergerakan harga Bitcoin selama tahun **2025**.
 
 Sistem ini membantu dalam penilaian kelayakan beasiswa dengan metode **Fuzzy Logic Mamdani**.
 
-🧠 **Tujuan**
+**Tujuan**
 - Mengurangi bias subjektif
 - Mengolah nilai dengan pendekatan *abu-abu*
 - Menentukan keputusan berbasis derajat keyakinan (μ)
 
-🏁 **Status Output**
+**Status Output**
 - ❌ **Gagal**
 - ⚠️ **Digantung** (dipertimbangkan)
 - ✅ **Diterima**
 
-📌 **Defuzzyfikasi:** `Center of Gravity (COG)`
+ **Defuzzyfikasi:** `Center of Gravity (COG)`
 
 ---
 
-## 🧮 Variabel Input Sistem Beasiswa
+## Variabel Input Sistem Beasiswa
 
 | Input | Nama Variabel | Range | Arti |
 |---:|---|---:|---|
@@ -73,11 +73,11 @@ Sistem ini membantu dalam penilaian kelayakan beasiswa dengan metode **Fuzzy Log
 | 3 | Konsistensi | 20–100 | Stabilitas nilai |
 | 4 | Progres | 40–100 | Perkembangan performa |
 
-📌 Output (0–100) → Nilai akhir **defuzzyfikasi**
+ Output (0–100) → Nilai akhir **defuzzyfikasi**
 
 ---
 
-## 🛠️ Teknologi & Tools
+## Teknologi & Tools
 | Kategori | Tools |
 |----------|--------|
 | Bahasa Pemrograman | Python |
@@ -89,14 +89,14 @@ Sistem ini membantu dalam penilaian kelayakan beasiswa dengan metode **Fuzzy Log
 
 ---
 
-## 🚀 Tujuan Akhir Project
+## Tujuan Akhir Project
 - Menggabungkan konsep **Ekonomi + AI + Data Science**
 - Melatih skill analisis data *end-to-end*
 - Membangun **sistem pendukung keputusan**
 
 ---
 
-## 👤 Author
+## Author
 **👨‍💻 jejo**  
 Financial Data Analyst & Machine Learning Enthusiast  
 
