@@ -7,7 +7,10 @@
 # 📊 Project Analisis By Jejo
 > **Sebuah project multi-domain** yang menggabungkan:
 > - Analisis Keuangan Bank BRI
+<<<<<<< HEAD
 > - Analisis Bursa saham asean pada 9 januari 2026
+=======
+>>>>>>> 6adf69e7906b75dada9358481a395611cfa091d8
 > - Analisis Harga Bitcoin (2025)
 > - Sistem Seleksi Beasiswa (Fuzzy Mamdani)
 

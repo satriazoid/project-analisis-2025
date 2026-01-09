@@ -1,5 +1,8 @@
 #folder analisis harga bitcoin tidak perlu di push
+<<<<<<< HEAD
 bot-discord-apex/
+=======
+>>>>>>> 6adf69e7906b75dada9358481a395611cfa091d8
 analisis_harga_bitcoin_2025/__pycache__/
 analisis_harga_bitcoin_2025/.ipynb_checkpoints/
 
@@ -10,5 +13,9 @@ analisis_laporan_keuangan_bri/.ipynb_checkpoints/
 btc-forecast-web/backend/models/
 
 #folder venv hide
+<<<<<<< HEAD
 .venv
 **/*.csv
+=======
+.venv
+>>>>>>> 6adf69e7906b75dada9358481a395611cfa091d8
